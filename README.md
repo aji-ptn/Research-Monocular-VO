@@ -9,7 +9,8 @@ Currently, 3D structure acquisition of real objects is a digital storage and rec
 **2. Achievement Our Progress about** 
 - Research Analysis about Visual Odometry | August 4, 2021
 - User Interface | August 10, 2021 
-  ![b](https://user-images.githubusercontent.com/60929939/128808935-8e7d6977-0f71-4136-8e3f-b15e83f6f5ec.png)
+  ![b](https://user-images.githubusercontent.com/60929939/128810219-50845eae-f921-456d-9c4f-1d5c29e9aeac.png)
+
 - Coming Soon
 
 **3. References**                                                                                             
