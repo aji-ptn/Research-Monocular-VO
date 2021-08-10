@@ -16,6 +16,7 @@ git clone https://github.com/Herusyahputra/Research-Monocular-VO.git
 4. open your Moilapp program
 5. add new plugin into your Moilapp 
    * to add new plugin into your Moilapp click add plugin and direct to **this folder** on your directory from repository (step 2) that your clone or .zip (step 3)
+   
    ![](../asset/img.png)
 
 ### Click This picture to Follow video tutorial 
