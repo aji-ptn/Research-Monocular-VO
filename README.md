@@ -1,6 +1,6 @@
 # Research-Monocular-VO
 Advisor : Dr. Chuang-Jan Chang                                                                                          
-Team    : Aji Tri Pamungkas Nurcahyo & Heru Syah Putra                                                                 
+Team    : Aji Pamungkas Tri Nurcahyo & Heru Syah Putra                                                                 
 Date    : July 10, 2021
 
 **1. Introduction**                                                                                                 
@@ -11,6 +11,8 @@ Currently, 3D structure acquisition of real objects is a digital storage and rec
   ![c](https://user-images.githubusercontent.com/60929939/128810903-e810094d-4aa5-4a6c-a4fa-af583437c85f.png)
   
 - User Interface | August 10, 2021 
+  
+  Click [this link](https://github.com/Herusyahputra/Research-Monocular-VO/tree/main/Template-Plugin)
   ![b](https://user-images.githubusercontent.com/60929939/128810219-50845eae-f921-456d-9c4f-1d5c29e9aeac.png)
 
 - Coming Soon

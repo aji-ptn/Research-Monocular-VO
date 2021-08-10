@@ -25,23 +25,4 @@ class UiController(Ui_MainWindow):
             self.h, self.w = self.image.shape[:2]
             # self.parent.setWindowTitle(self.title + " - " + filename)
             self.type_camera = MoilUtils.readCameraType(filename)
-            MoilUtils.showImageToLabel(self.labe)
-            if self.type_camera:
-                self.onclick_normal()
-                # self.label_camera.setText("Camera type: " + self.type_camera)
-                self.show_percentage()
-
-    def onclick_normal(self):
-        """
-        Change to normal view..
-
-        Returns:
-
-        """
-        if self.image is not None:
-            self.normal_view = True
-            self.anypoint_view = False
-            self.panorama_view = False
-            self.scrollArea.show()
-            self.show_to_window()
-            self.reset_mode_view()
+            MoilUtils.showImageToLabel(self.label_ori, self.image, 400, 0, False)

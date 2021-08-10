@@ -272,7 +272,7 @@
            </widget>
           </item>
           <item>
-           <widget class="QComboBox" name="coombo_zoom">
+           <widget class="QComboBox" name="combo_zoom">
             <property name="minimumSize">
              <size>
               <width>0</width>
@@ -1071,7 +1071,7 @@ border-radius: 10px;</string>
                    </widget>
                   </item>
                   <item row="2" column="3">
-                   <widget class="QLabel" name="label_23">
+                   <widget class="QLabel" name="lbl_coor_X2">
                     <property name="minimumSize">
                      <size>
                       <width>60</width>
@@ -1125,7 +1125,7 @@ border-radius: 10px;</string>
                    </widget>
                   </item>
                   <item row="3" column="3">
-                   <widget class="QLabel" name="label_31">
+                   <widget class="QLabel" name="lbl_coor_X3">
                     <property name="minimumSize">
                      <size>
                       <width>0</width>
@@ -1192,7 +1192,7 @@ border-radius: 10px;</string>
                    </widget>
                   </item>
                   <item row="1" column="7">
-                   <widget class="QLabel" name="label_15">
+                   <widget class="QLabel" name="lbl_coor_Z1">
                     <property name="minimumSize">
                      <size>
                       <width>60</width>
@@ -1208,7 +1208,7 @@ border-radius: 10px;</string>
                    </widget>
                   </item>
                   <item row="1" column="5">
-                   <widget class="QLabel" name="label_11">
+                   <widget class="QLabel" name="lbl_coor_Y1">
                     <property name="minimumSize">
                      <size>
                       <width>60</width>
@@ -1244,7 +1244,7 @@ border-radius: 10px;</string>
                    </widget>
                   </item>
                   <item row="3" column="7">
-                   <widget class="QLabel" name="label_30">
+                   <widget class="QLabel" name="lbl_coor_Z3">
                     <property name="minimumSize">
                      <size>
                       <width>60</width>
@@ -1286,7 +1286,7 @@ border-radius: 10px;</string>
                    </widget>
                   </item>
                   <item row="1" column="3">
-                   <widget class="QLabel" name="label_16">
+                   <widget class="QLabel" name="lbl_coor_X1">
                     <property name="minimumSize">
                      <size>
                       <width>0</width>
@@ -1327,7 +1327,7 @@ border-radius: 10px;</string>
                    </widget>
                   </item>
                   <item row="2" column="7">
-                   <widget class="QLabel" name="label_22">
+                   <widget class="QLabel" name="lbl_coor_Z2">
                     <property name="minimumSize">
                      <size>
                       <width>60</width>
@@ -1343,7 +1343,7 @@ border-radius: 10px;</string>
                    </widget>
                   </item>
                   <item row="0" column="3">
-                   <widget class="QLabel" name="label_7">
+                   <widget class="QLabel" name="lbl_coor_Xori">
                     <property name="minimumSize">
                      <size>
                       <width>60</width>
@@ -1378,7 +1378,7 @@ border-radius: 10px;</string>
                    </widget>
                   </item>
                   <item row="0" column="5">
-                   <widget class="QLabel" name="label_9">
+                   <widget class="QLabel" name="lbl_coor_Yori">
                     <property name="minimumSize">
                      <size>
                       <width>60</width>
@@ -1426,7 +1426,7 @@ border-radius: 10px;</string>
                    </widget>
                   </item>
                   <item row="2" column="5">
-                   <widget class="QLabel" name="label_19">
+                   <widget class="QLabel" name="lbl_coor_Y2">
                     <property name="minimumSize">
                      <size>
                       <width>60</width>
@@ -1449,7 +1449,7 @@ border-radius: 10px;</string>
                    </widget>
                   </item>
                   <item row="3" column="5">
-                   <widget class="QLabel" name="label_29">
+                   <widget class="QLabel" name="lbl_coor_Y3">
                     <property name="minimumSize">
                      <size>
                       <width>60</width>
@@ -1478,7 +1478,7 @@ border-radius: 10px;</string>
                    </widget>
                   </item>
                   <item row="0" column="7">
-                   <widget class="QLabel" name="label_14">
+                   <widget class="QLabel" name="lbl_coor_Zori">
                     <property name="minimumSize">
                      <size>
                       <width>60</width>
@@ -1625,7 +1625,7 @@ border-radius: 10px;</string>
                    </widget>
                   </item>
                   <item row="0" column="7">
-                   <widget class="QLabel" name="label_44">
+                   <widget class="QLabel" name="lbl_error_Z1">
                     <property name="minimumSize">
                      <size>
                       <width>50</width>
@@ -1641,7 +1641,7 @@ border-radius: 10px;</string>
                    </widget>
                   </item>
                   <item row="2" column="3">
-                   <widget class="QLabel" name="label_45">
+                   <widget class="QLabel" name="lbl_error_X3">
                     <property name="minimumSize">
                      <size>
                       <width>50</width>
@@ -1657,7 +1657,7 @@ border-radius: 10px;</string>
                    </widget>
                   </item>
                   <item row="2" column="5">
-                   <widget class="QLabel" name="label_46">
+                   <widget class="QLabel" name="lbl_error_Y3">
                     <property name="minimumSize">
                      <size>
                       <width>50</width>
@@ -1692,7 +1692,7 @@ border-radius: 10px;</string>
                    </widget>
                   </item>
                   <item row="1" column="7">
-                   <widget class="QLabel" name="label_48">
+                   <widget class="QLabel" name="lbl_error_Z2">
                     <property name="minimumSize">
                      <size>
                       <width>50</width>
@@ -1740,7 +1740,7 @@ border-radius: 10px;</string>
                    </widget>
                   </item>
                   <item row="0" column="5">
-                   <widget class="QLabel" name="label_51">
+                   <widget class="QLabel" name="lbl_error_Y1">
                     <property name="minimumSize">
                      <size>
                       <width>50</width>
@@ -1763,7 +1763,7 @@ border-radius: 10px;</string>
                    </widget>
                   </item>
                   <item row="1" column="5">
-                   <widget class="QLabel" name="label_52">
+                   <widget class="QLabel" name="lbl_error_Y2">
                     <property name="minimumSize">
                      <size>
                       <width>50</width>
@@ -1812,7 +1812,7 @@ border-radius: 10px;</string>
                    </widget>
                   </item>
                   <item row="0" column="3">
-                   <widget class="QLabel" name="label_56">
+                   <widget class="QLabel" name="lbl_error_X1">
                     <property name="minimumSize">
                      <size>
                       <width>50</width>
@@ -1828,7 +1828,7 @@ border-radius: 10px;</string>
                    </widget>
                   </item>
                   <item row="2" column="7">
-                   <widget class="QLabel" name="label_57">
+                   <widget class="QLabel" name="lbl_error_Z3">
                     <property name="minimumSize">
                      <size>
                       <width>50</width>
@@ -1857,7 +1857,7 @@ border-radius: 10px;</string>
                    </widget>
                   </item>
                   <item row="1" column="3">
-                   <widget class="QLabel" name="label_59">
+                   <widget class="QLabel" name="lbl_error_X2">
                     <property name="minimumSize">
                      <size>
                       <width>50</width>
@@ -1938,7 +1938,7 @@ border-radius: 10px;</string>
                    </widget>
                   </item>
                   <item row="0" column="10">
-                   <widget class="QLabel" name="label_65">
+                   <widget class="QLabel" name="lbl_error_total1">
                     <property name="minimumSize">
                      <size>
                       <width>50</width>
@@ -1967,7 +1967,7 @@ border-radius: 10px;</string>
                    </widget>
                   </item>
                   <item row="2" column="10">
-                   <widget class="QLabel" name="label_67">
+                   <widget class="QLabel" name="lbl_error_total3">
                     <property name="minimumSize">
                      <size>
                       <width>50</width>
@@ -1983,7 +1983,7 @@ border-radius: 10px;</string>
                    </widget>
                   </item>
                   <item row="1" column="10">
-                   <widget class="QLabel" name="label_68">
+                   <widget class="QLabel" name="lbl_error_total2">
                     <property name="minimumSize">
                      <size>
                       <width>50</width>
@@ -2189,37 +2189,8 @@ border-radius: 10px;</string>
                </widget>
               </widget>
              </item>
-             <item row="2" column="1">
-              <widget class="QLabel" name="title_image_ori_17">
-               <property name="minimumSize">
-                <size>
-                 <width>410</width>
-                 <height>20</height>
-                </size>
-               </property>
-               <property name="font">
-                <font>
-                 <family>DejaVu Serif Condensed</family>
-                 <pointsize>13</pointsize>
-                </font>
-               </property>
-               <property name="styleSheet">
-                <string notr="true">background-color: #71D1BA;   
-border-radius: 10px;</string>
-               </property>
-               <property name="frameShape">
-                <enum>QFrame::NoFrame</enum>
-               </property>
-               <property name="text">
-                <string>Original</string>
-               </property>
-               <property name="alignment">
-                <set>Qt::AlignCenter</set>
-               </property>
-              </widget>
-             </item>
-             <item row="3" column="0">
-              <widget class="QScrollArea" name="scrollArea_8">
+             <item row="1" column="1">
+              <widget class="QScrollArea" name="scrollArea_img2">
                <property name="minimumSize">
                 <size>
                  <width>410</width>
@@ -2235,7 +2206,7 @@ border-radius: 10px;</string>
                <property name="widgetResizable">
                 <bool>true</bool>
                </property>
-               <widget class="QWidget" name="scrollAreaWidgetContents_9">
+               <widget class="QWidget" name="scrollAreaWidgetContents_12">
                 <property name="geometry">
                  <rect>
                   <x>0</x>
@@ -2244,59 +2215,9 @@ border-radius: 10px;</string>
                   <height>248</height>
                  </rect>
                 </property>
-                <layout class="QVBoxLayout" name="verticalLayout_21">
+                <layout class="QVBoxLayout" name="verticalLayout_24">
                  <item>
-                  <widget class="QLabel" name="label_ori_7">
-                   <property name="minimumSize">
-                    <size>
-                     <width>0</width>
-                     <height>0</height>
-                    </size>
-                   </property>
-                   <property name="frameShape">
-                    <enum>QFrame::Box</enum>
-                   </property>
-                   <property name="text">
-                    <string/>
-                   </property>
-                   <property name="alignment">
-                    <set>Qt::AlignCenter</set>
-                   </property>
-                  </widget>
-                 </item>
-                </layout>
-               </widget>
-              </widget>
-             </item>
-             <item row="3" column="1">
-              <widget class="QScrollArea" name="scrollArea_9">
-               <property name="minimumSize">
-                <size>
-                 <width>410</width>
-                 <height>250</height>
-                </size>
-               </property>
-               <property name="maximumSize">
-                <size>
-                 <width>16777215</width>
-                 <height>16777215</height>
-                </size>
-               </property>
-               <property name="widgetResizable">
-                <bool>true</bool>
-               </property>
-               <widget class="QWidget" name="scrollAreaWidgetContents_10">
-                <property name="geometry">
-                 <rect>
-                  <x>0</x>
-                  <y>0</y>
-                  <width>408</width>
-                  <height>248</height>
-                 </rect>
-                </property>
-                <layout class="QVBoxLayout" name="verticalLayout_22">
-                 <item>
-                  <widget class="QLabel" name="label_ori_8">
+                  <widget class="QLabel" name="label_image2">
                    <property name="minimumSize">
                     <size>
                      <width>0</width>
@@ -2353,8 +2274,37 @@ border-radius: 10px;</string>
                </property>
               </widget>
              </item>
-             <item row="1" column="1">
-              <widget class="QScrollArea" name="scrollArea_img1_2">
+             <item row="2" column="1">
+              <widget class="QLabel" name="title_image_ori_17">
+               <property name="minimumSize">
+                <size>
+                 <width>410</width>
+                 <height>20</height>
+                </size>
+               </property>
+               <property name="font">
+                <font>
+                 <family>DejaVu Serif Condensed</family>
+                 <pointsize>13</pointsize>
+                </font>
+               </property>
+               <property name="styleSheet">
+                <string notr="true">background-color: #71D1BA;   
+border-radius: 10px;</string>
+               </property>
+               <property name="frameShape">
+                <enum>QFrame::NoFrame</enum>
+               </property>
+               <property name="text">
+                <string>Original</string>
+               </property>
+               <property name="alignment">
+                <set>Qt::AlignCenter</set>
+               </property>
+              </widget>
+             </item>
+             <item row="3" column="0">
+              <widget class="QScrollArea" name="scrollArea_img3">
                <property name="minimumSize">
                 <size>
                  <width>410</width>
@@ -2370,7 +2320,7 @@ border-radius: 10px;</string>
                <property name="widgetResizable">
                 <bool>true</bool>
                </property>
-               <widget class="QWidget" name="scrollAreaWidgetContents_12">
+               <widget class="QWidget" name="scrollAreaWidgetContents_9">
                 <property name="geometry">
                  <rect>
                   <x>0</x>
@@ -2379,9 +2329,59 @@ border-radius: 10px;</string>
                   <height>248</height>
                  </rect>
                 </property>
-                <layout class="QVBoxLayout" name="verticalLayout_24">
+                <layout class="QVBoxLayout" name="verticalLayout_21">
                  <item>
-                  <widget class="QLabel" name="label_image1_2">
+                  <widget class="QLabel" name="label_image3">
+                   <property name="minimumSize">
+                    <size>
+                     <width>0</width>
+                     <height>0</height>
+                    </size>
+                   </property>
+                   <property name="frameShape">
+                    <enum>QFrame::Box</enum>
+                   </property>
+                   <property name="text">
+                    <string/>
+                   </property>
+                   <property name="alignment">
+                    <set>Qt::AlignCenter</set>
+                   </property>
+                  </widget>
+                 </item>
+                </layout>
+               </widget>
+              </widget>
+             </item>
+             <item row="3" column="1">
+              <widget class="QScrollArea" name="scrollArea_original">
+               <property name="minimumSize">
+                <size>
+                 <width>410</width>
+                 <height>250</height>
+                </size>
+               </property>
+               <property name="maximumSize">
+                <size>
+                 <width>16777215</width>
+                 <height>16777215</height>
+                </size>
+               </property>
+               <property name="widgetResizable">
+                <bool>true</bool>
+               </property>
+               <widget class="QWidget" name="scrollAreaWidgetContents_10">
+                <property name="geometry">
+                 <rect>
+                  <x>0</x>
+                  <y>0</y>
+                  <width>408</width>
+                  <height>248</height>
+                 </rect>
+                </property>
+                <layout class="QVBoxLayout" name="verticalLayout_22">
+                 <item>
+                  <widget class="QLabel" name="label_ori">
                    <property name="minimumSize">
                     <size>
                      <width>0</width>
@@ -2435,7 +2435,7 @@ border-radius: 10px;</string>
             </widget>
            </item>
            <item>
-            <widget class="QScrollArea" name="scrollArea_10">
+            <widget class="QScrollArea" name="scrollArea_3D_trajectory">
              <property name="minimumSize">
               <size>
                <width>300</width>
@@ -2456,7 +2456,7 @@ border-radius: 10px;</string>
               </property>
               <layout class="QVBoxLayout" name="verticalLayout_23">
                <item>
-                <widget class="QLabel" name="label_ori_9">
+                <widget class="QLabel" name="label_3Dtrajec">
                  <property name="minimumSize">
                   <size>
                    <width>0</width>
@@ -2641,7 +2641,7 @@ border-radius: 10px;</string>
   </action>
   <action name="actionRotatevright">
    <property name="text">
-    <string>Rotatevright</string>
+    <string>Rotate right</string>
    </property>
   </action>
   <action name="actionZoom_in">
